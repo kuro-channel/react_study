@@ -32,7 +32,7 @@ React勉強会用リポジトリ
 最短1時間、最長でも1時間半
 
 # React概要
-## 【イントロダクション】
+## イントロダクション
 - Reactの技術的な説明に入る前に、まずはイントロダクション。
 - Reactに関してよく耳にすること等をチェック！
 
@@ -42,13 +42,12 @@ https://insights.stackoverflow.com/trends?tags=reactjs%2Cvue.js%2Cangular%2Cangu
 
 ### Reactで何ができるか？
 
+### SPAについて
 
-- 従来型のWebアプリケーション
-- SPA
+## React - 技術説明
+- Reactで作るSPAアプリケーションの仕組み
+- Reactで実装するとどうなるか？
 
-
-### SPAとは？
-- 
 
 **React.jsとは何か？**
 - Facebook製のJavascriptライブラリ
