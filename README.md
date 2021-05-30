@@ -9,10 +9,6 @@ React勉強会用リポジトリ
 
 ## 今日の勉強会について
 - 入退場自由です。本日使用したスライド、サンプルコードは後ほど公開します。
-- 今回のハンズオンでは、「**TypeScript**」は未使用とします。  
-※ 今後のReact勉強会では、TypeScriptガンガン使います。
-- 開発環境の構築を忘れた・できなかった、上手くできなかった
-  - そんな人の為に、「**CodeSandBox**」でオンライン環境作ってますので、そちらをお使いください。
  
 - What's TypeScript?
   - JavaScriptを拡張して作られたプログラミング言語
@@ -33,30 +29,16 @@ React勉強会用リポジトリ
 
 # React概要
 ## イントロダクション
-- Reactの技術的な説明に入る前に、まずはイントロダクション。
-- Reactに関してよく耳にすること等をチェック！
+### Why?React
+- なぜReactなのか？
+
+### What?How?React
+- Reactとは何か？
+- Reactの概要（書いてみよう）
 
 ### React：JSフレームワーク界隈ではトレンドNo.1
 【**Stack Overflow Trends**】: Stack Overflow でのタグ数の比較  
 https://insights.stackoverflow.com/trends?tags=reactjs%2Cvue.js%2Cangular%2Cangularjs  
 
-### Reactで何ができるか？
-
-### SPAについて
-
-## React - 技術説明
-- Reactで作るSPAアプリケーションの仕組み
-- Reactで実装するとどうなるか？
 
 
-**React.jsとは何か？**
-- Facebook製のJavascriptライブラリ
-  - 「A JavaScript library for building user interfaces」：UIを構築するためのライブラリ
-  - FacebookやInstagram, YahooやAirbnbなど多くの採用事例あり
-
-- Reactがやること
-```
-1. ページ状態を保持している「プレーンな JavaScript のオブジェクト」に、
-2. 「テンプレート的な関数」を作用させて、「仮想 DOM」と呼ばれるDOM の設計図を取り出し、
-3. その設計図を使って本物の DOM を構築する。
-```
